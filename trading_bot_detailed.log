@@ -1,0 +1,5 @@
+2025-06-05 18:18:25,218 - INFO - [INIT] Leverage response for ETHUSDT: {'retCode': 110043, 'retMsg': 'leverage not modified', 'result': {}, 'retExtInfo': {}, 'time': 1749134905319}
+2025-06-05 18:18:25,218 - INFO - [INIT] Leverage for ETHUSDT already set to 5x (no modification needed)
+2025-06-05 18:18:26,235 - INFO - [FUNDS] Demo funds response: {'retCode': 0, 'retMsg': '', 'result': {'resultCode': '0', 'utaDemoApplyMoneyConfig': [{'coin': 'ETH', 'amountStr': '1'}, {'coin': 'USDT', 'amountStr': '100000'}], 'orderStatus': 'SUCCESS', 'retMsg': ''}, 'retExtInfo': {}, 'time': 1749134906129}
+2025-06-05 18:18:26,235 - INFO - [FUNDS] Requested demo funds successfully
+2025-06-05 18:18:26,235 - INFO - [SYNC] Waiting 694s for next candle
